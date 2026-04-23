@@ -1,48 +1,46 @@
-🧠 Breast Cancer Prediction System
+<!-- 🔥 HERO BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:14b8a6&height=200&section=header&text=Breast%20Cancer%20Prediction&fontSize=35&fontColor=ffffff" />
+</p>
 
-Engineered a high-performance machine learning classification system for early-stage breast cancer detection, achieving ~90% validation accuracy with strong generalization capability.
+<!-- 🔥 TITLE -->
+<h1 align="center">🧠 Breast Cancer Prediction System</h1>
+<h3 align="center">High-Performance ML System for Early-Stage Cancer Detection</h3>
 
-🚀 System Overview
+<!-- 🔥 BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Healthcare-blue" />
+  <img src="https://img.shields.io/badge/Accuracy-~90%25-success" />
+  <img src="https://img.shields.io/badge/Status-Production--Ready-brightgreen" />
+</p>
 
-Developed an end-to-end ML pipeline to classify tumors as benign or malignant, with a strong emphasis on robustness, interpretability, and real-world healthcare applicability.
+---
 
-Pipeline Flow: Data Ingestion → Data Preprocessing → Feature Engineering → Model Training → Evaluation → Validation
+## 🧠 Overview  
 
-⚙️ Technical Implementation
+A **machine learning-based classification system** designed for **early detection of breast cancer**, capable of distinguishing between **benign and malignant tumors** with high accuracy.
 
-Built using Scikit-learn with a structured and reproducible workflow
-Implemented multiple models for comparative analysis:
-Logistic Regression (baseline model)
-AdaBoost Classifier (final selected model)
-Applied data preprocessing techniques including encoding and scaling
-Performed train-test split with proper validation strategy
-Ensured clean and modular pipeline design
-📊 Performance Metrics
+> 🎯 Focus: **Accuracy + Generalization + Interpretability**
 
-Accuracy: ~90.9% ✅
-Precision & Recall: Optimized for balanced classification
-F1 Score: Maintained stability across classes
-Confusion Matrix: Evaluated classification errors (FP vs FN)
-(Extendable to ROC-AUC for deeper evaluation)
-🧬 Dataset
+---
 
-Breast Cancer Dataset (CSV, 4000+ records)
-Includes both clinical and demographic features:
-Age, Tumor Stage (T, N, Stage)
-Tumor Size, Grade, Differentiation
-Estrogen & Progesterone Status
-Target Variable:
+## 🚀 System Pipeline  
 
-Binary Classification → Benign vs Malignant
-🧠 Key Engineering Decisions
+<p align="center">
+<b>End-to-End ML Workflow</b>
+</p>
 
-Focused on generalization over overfitting
-Designed pipeline for reproducibility and scalability
-Balanced model performance across classes
-Prioritized interpretability (critical for healthcare AI systems)
-🛠 Tech Stack
+<br>
 
-Python • Scikit-learn • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook
-
-
-Doc# Breast-Cancer-Detection-System
+```text
+Data Ingestion
+      ↓
+Data Preprocessing
+      ↓
+Feature Engineering
+      ↓
+Model Training
+      ↓
+Evaluation
+      ↓
+Validation
