@@ -5,7 +5,7 @@ import numpy as np
 model=pickle.load(open('breast_cancer_model.pkl','rb'))
 scaler=pickle.load(open('breast_cancer_scaler.pkl','rb'))
 
-st.set_page_config(page_title="Breast Cancer Survival Prediction",layout="centered")
+st.set_page_config(page_title="Breast Cancer Prediction Model",layout="centered")
 
 st.markdown("""
 <h1 style='text-align : center; color: blue;'>
