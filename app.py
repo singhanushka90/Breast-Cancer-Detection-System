@@ -8,10 +8,10 @@ scaler=pickle.load(open('breast_cancer_scaler.pkl','rb'))
 st.set_page_config(page_title="Breast Cancer Survival Prediction",layout="centered")
 
 st.markdown("""
-<h1 style='text-align : center; color: #e75480;'>
+<h1 style='text-align : center; color: blue;'>
              Breast Cancer Survival Prediction
             </h1>
-            <p style='text-align : center; color: gray ;'>
+            <p style='text-align : center; color: pink ;'>
             Fill in patient details to predict survival outcome
             </p>
             <hr>
