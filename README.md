@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">🧠 Breast Cancer Prediction</h1>
-<h3 align="center">AI-Powered Healthcare Classification System</h3>
+<h3 align="center">AI-Powered Healthcare Classification</h3>
 
 <hr/>
 
