@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:14b8a6&height=200&section=header&text=Breast%20Cancer%20Prediction&fontSize=35&fontColor=ffffff" />
 </p>
 
-<h1 align="center">🧠 Breast Cancer Prediction System</h1>
+<h1 align="center">🧠 Breast Cancer Prediction</h1>
 <h3 align="center">AI-Powered Healthcare Classification System</h3>
 
 <hr/>
