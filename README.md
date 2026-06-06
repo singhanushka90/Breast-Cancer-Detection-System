@@ -1,6 +1,6 @@
 <!-- 🔥 HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:14b8a6&height=200&section=header&text=Breast%20Cancer%20Prediction%20System&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:14b8a6&height=200&section=header&text=Breast%20Cancer%20Prediction&fontSize=35&fontColor=ffffff" />
 </p>
 
 <h1 align="center">🧠 Breast Cancer Prediction System</h1>
