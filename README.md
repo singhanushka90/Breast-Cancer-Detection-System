@@ -193,7 +193,7 @@ This system demonstrates how machine learning can assist in early-stage cancer d
 
 <p align="center">
   <b>Anushka Singh</b><br/>
-  AI Engineer | ML Systems | Healthcare AI
+  AI Engineer | ML Project | Healthcare AI
 </p>
 
 <hr/>
