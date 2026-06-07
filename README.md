@@ -202,7 +202,7 @@ This system demonstrates how machine learning can assist in early-stage cancer d
 <h2 align="center">⚡ Final Insight</h2>
 
 <p align="center">
-<b>“Building AI systems that don’t just predict — but assist in saving lives.”</b>
+<b>“Building AI projects that don’t just predict — but assist in saving lives.”</b>
 </p>
 
 <!-- 🔥 FOOTER -->
