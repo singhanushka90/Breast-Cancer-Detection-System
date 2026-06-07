@@ -23,7 +23,7 @@ Built with a focus on <b>accuracy, interpretability, and real-world healthcare i
 <hr/>
 
 <!-- 🔥 PIPELINE -->
-<h2>⚙️ System Pipeline</h2>
+<h2>⚙️Pipeline</h2>
 
 <pre>
 Data Ingestion
@@ -113,7 +113,7 @@ Validation
 <hr/>
 
 <!-- 🔥 CAPABILITIES -->
-<h2>⚡ System Capabilities</h2>
+<h2>⚡Capabilities</h2>
 
 <ul>
   <li>🔎 Accurate Tumor Classification</li>
